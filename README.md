@@ -1,4 +1,4 @@
-# Deep Reinforcement Learning : Navigation
+## Udacity Deep Reinforcement Learning Nanodegree : Project 1 - Navigation
 
 This Notebook and the generated pdf report are my implementation of the first Udacity project.
 
